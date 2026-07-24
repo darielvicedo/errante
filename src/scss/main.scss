@@ -1,0 +1,20 @@
+// 1. Funciones de Bootstrap
+@import "bootstrap/scss/functions";
+
+// 2. Tus variables personalizadas
+@import "./variables";
+
+// 3. Variables de Bootstrap
+@import "bootstrap/scss/variables";
+
+// 4. Mapas de Bootstrap
+@import "bootstrap/scss/maps";
+
+// 5. Mixins de Bootstrap
+@import "bootstrap/scss/mixins";
+
+// 6. Utilidades de Bootstrap
+@import "bootstrap/scss/utilities";
+
+// 7. Bootstrap completo
+@import "bootstrap/scss/bootstrap";
